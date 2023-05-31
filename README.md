@@ -2,7 +2,7 @@
 
 I clone this project after learned on udemy
 
-## Getting Started
+## Demo 
 
 ![image](https://github.com/takara1924/MealApp/assets/119207774/6bbaf56f-3535-4797-b250-e2890f0a549a)
 ![image](https://github.com/takara1924/MealApp/assets/119207774/49925e9b-1578-424a-82a9-c1d23ff117b5)
